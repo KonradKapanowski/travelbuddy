@@ -11,15 +11,15 @@ https://gotravelbuddy.netlify.app/
 React <br/>
 Material UI
 
-### API:
+## API:
 -GOOGLE MAPS API <br/>
 
-### INFORMATION 
+## INFORMATION 
 
 If you can't see any places on map, it can be caused by to many request <br/>
 on RapidApi. In this case send me email on <ins>kapanowskikonrad@gmail.com<ins>
 
-### Application view
+## Application view
 
 <img src="src/assets/TRAVEL_BUDDY1.jpg">
 
