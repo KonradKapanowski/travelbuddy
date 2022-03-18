@@ -2,7 +2,12 @@
 Simple app to search attractions, hotels and food wherever you are.<br/>
 You can also sort places by ratings.
 
-##TECHNOLOGIES
+## LINK:
+
+https://gotravelbuddy.netlify.app/
+
+
+## TECHNOLOGIES
 React <br/>
 Material UI
 
